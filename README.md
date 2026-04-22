@@ -25,9 +25,9 @@
 
 <br>
 
-""### 📫 Conectemos
+"### 📫 Conectemos
 <p align="left">
 <a href="TU_LINK_DE_LINKEDIN_AQUI">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-</p>""
+</p>"
