@@ -26,11 +26,3 @@
 </p>
 
 <br>
-
-<h3>📫 Conectemos</h3>
-<p align="left">
-  <a href="mailto:tu_correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-  </p>
