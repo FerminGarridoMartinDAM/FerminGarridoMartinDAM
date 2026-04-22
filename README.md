@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Portada.jpg" alt="Portada DAM Prometeo" width="100%">
+  <img src="portada.png" alt="Portada DAM Prometeo" width="100%">
 </p>
 
 <h1 align="center">¡Hola! Soy Fermín Garrido Martín 🚀</h1>
