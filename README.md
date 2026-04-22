@@ -35,8 +35,8 @@
 
 <br>
 
-< !-- SECCIÓN DE CONTACTO COMENTADA (Visible por el espacio extra) -->
-< !-- 
+<!-- SECCIÓN DE CONTACTO COMENTADA (Visible por el espacio extra) -->
+<!-- 
 ### 📫 Conectemos
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>](mailto:tu_correo@ejemplo.com)
 
