@@ -1,4 +1,4 @@
-<img src="Portada.png" alt="Portada DAM Prometeo" width="100%">
+<img src="Portada.jpg" alt="Portada DAM Prometeo" width="100%">
 
 <br>
 
