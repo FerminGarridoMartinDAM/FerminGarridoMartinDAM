@@ -2,11 +2,11 @@
   <img src="portada.png" alt="Portada DAM Prometeo" width="100%">
 </p>
 
-<h1 align="center">💻 ¡Hola! Soy Fermín Garrido Martín 💻</h1>
+<h1 align="center">¡Hola! Soy Fermín Garrido Martín</h1>
 
 <p align="center">
   <i>Estudiante de 1er año de <b>DAM</b> en Prometeo (thePower). <br> 
-  Construyendo soluciones reales mientras domino el stack de desarrollo multiplataforma.</i>
+ </i>
 </p>
 
 ### 🛠️ Tecnologías y Herramientas
