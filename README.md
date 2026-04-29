@@ -2,7 +2,7 @@
   <img src="portada.png" alt="Portada DAM Prometeo" width="100%">
 </p>
 
-<h1 align="center">¡Hola! Soy Fermín Garrido Martín 🚀</h1>
+<h1 align="center">💻 ¡Hola! Soy Fermín Garrido Martín 💻</h1>
 
 <p align="center">
   <i>Estudiante de 1er año de <b>DAM</b> en Prometeo (thePower). <br> 
@@ -35,7 +35,7 @@
 
 <br>
 
-<!-- SECCIÓN DE CONTACTO COMENTADA (Visible por el espacio extra) -->
+<!-- SECCIÓN DE CONTACTO COMENTADA -->
 <!-- 
 ### 📫 Conectemos
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>](mailto:tu_correo@ejemplo.com)
