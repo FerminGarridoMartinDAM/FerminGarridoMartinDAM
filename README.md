@@ -10,21 +10,32 @@
 </p>
 
 ### 🛠️ Tecnologías y Herramientas
+<!-- Lenguajes y Lógica -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+<!-- Web y Datos -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<!-- Control de versiones -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
 
-### 📚 Mis Asignaturas y Proyectos (DAM 1º Año)
-*Acceso directo a mis repositorios de estudio y prácticas en Prometeo:*
+### 🚀 Proyectos Actuales (DAM 2º Año)
+*Repositorios en desarrollo durante este curso:*
+
+- 🚧 **[Nombre Asignatura / Proyecto]** - *En construcción...*
+- 🚧 **[Nombre Asignatura / Proyecto]** - *En construcción...*
+
+<br>
+
+### 📚 Archivo: Prácticas y Bases (DAM 1º Año)
+*Mis repositorios de estudio del curso anterior:*
 
 - 💻 **[Programación y Fundamentos](https://github.com/DevelopSys/CLASESPW/tree/main/CODIGOS_PRO)** - Lógica pura y desarrollo en Java.
 - 🌐 **[Lenguajes de Marcas](https://github.com/meleiro/DAM-LM)** - Estructura web con HTML y CSS.
