@@ -5,7 +5,7 @@
 <h1 align="center">¡Hola! Soy Fermín Garrido Martín</h1>
 
 <p align="center">
-  <i>Estudiante de 1er año de <b>DAM</b> en Prometeo (thePower). <br> 
+  <i>Estudiante de 2º año de <b>DAM</b> en Prometeo (thePower). <br> 
  </i>
 </p>
 
