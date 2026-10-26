@@ -32,18 +32,25 @@
 *Repositorios en desarrollo durante este curso:*
 
 **Módulos Técnicos y Desarrollo**
-- 🗄️ **[Acceso a Datos](ENLACE_PENDIENTE)** - Persistencia de datos, ficheros, conectores JDBC y ORM (Hibernate).
-- 📱 **[Programación Multimedia y Dispositivos Móviles](ENLACE_PENDIENTE)** - Desarrollo de aplicaciones nativas en Android con Kotlin.
-- ⚡ **[Programación de Servicios y Procesos](ENLACE_PENDIENTE)** - Programación concurrente, multihilo, sockets y servicios en red.
-- 🖥️ **[Desarrollo de Interfaces](ENLACE_PENDIENTE)** - Diseño y construcción de interfaces gráficas de usuario (JavaFX / UI).
-- 🏢 **[Sistemas de Gestión Empresarial](ENLACE_PENDIENTE)** - Implantación y personalización de sistemas ERP/CRM (Odoo, Docker).
-- ☁️ **[MPO: Fundamentos de Computación en la Nube](ENLACE_PENDIENTE)** - Infraestructura cloud, despliegue y servicios en la nube.
+- 🗄️ **[Acceso a Datos (Ver Lista Completa ⭐)](https://github.com/stars/FerminGarridoMartinDAM/lists/acceso-a-datos)** - Persistencia de datos, ficheros, conectores JDBC y ORM (Hibernate).
+  <details>
+    <summary><b>📂 Desplegar proyectos de la asignatura</b></summary>
+    <ul>
+      <li><a href="https://github.com/meleiro/DAM-ACCESO_A_DATOS_Tienda_Ramiro_Ficheros">Proyecto: Tienda Ramiro (Ficheros)</a></li>
+      <li><a href="https://github.com/meleiro/DAM-ACCESO_A_DATOS_ALAMBRES_RAMIRO">Proyecto: Alambres Ramiro</a></li>
+    </ul>
+  </details>
+- 📱 **[Programación Multimedia y Dispositivos Móviles](https://github.com/meleiro/DAM-PMDM-SportTracking)** - Desarrollo de aplicaciones nativas en Android con Kotlin (*Proyecto SportTracking*).
+- ⚡ **[Programación de Servicios y Procesos](https://github.com/olga3emes/2DAM-CM-2627/tree/master/PSP)** - Programación concurrente, multihilo, sockets y servicios en red.
+- 🖥️ **[Desarrollo de Interfaces](https://github.com/olga3emes/2DAM-CM-2627/tree/master/DI)** - Diseño y construcción de interfaces gráficas de usuario (JavaFX / UI).
+- 🏢 **[Sistemas de Gestión Empresarial](https://github.com/olga3emes/2DAM-CM-2627/tree/master/SGE)** - Implantación y personalización de sistemas ERP/CRM (Odoo, Docker).
+- ☁️ **[MPO: Fundamentos de Computación en la Nube](https://github.com/olga3emes/2DAM-CM-2627/tree/master/MPO)** - Infraestructura cloud, despliegue y servicios en la nube.
 
-**Módulos Transversales y Empleabilidad**
-- 🌐 **[Digitalización Aplicada al Sector Productivo](ENLACE_PENDIENTE)** - Transformación digital e integración tecnológica en entornos de trabajo.
-- 🌱 **[Sostenibilidad Aplicada al Sistema Productivo](ENLACE_PENDIENTE)** - Criterios ambientales y desarrollo tecnológico sostenible.
-- 🇬🇧 **[Inglés Profesional](ENLACE_PENDIENTE)** - Comunicación técnica y documentación en el sector IT.
-- 💼 **[Itinerario Personal para la Empleabilidad II](ENLACE_PENDIENTE)** - Desarrollo profesional, emprendimiento y orientación laboral.
+**Módulos Transversales y Empleabilidad** *(Repositorios propios en preparación)*
+- 🌐 **Digitalización Aplicada al Sector Productivo** - Transformación digital e integración tecnológica en entornos de trabajo.
+- 🌱 **Sostenibilidad Aplicada al Sistema Productivo** - Criterios ambientales y desarrollo tecnológico sostenible.
+- 🇬🇧 **Inglés Profesional** - Comunicación técnica y documentación en el sector IT.
+- 💼 **Itinerario Personal para la Empleabilidad II** - Desarrollo profesional, emprendimiento y orientación laboral.
 
 <br>
 
