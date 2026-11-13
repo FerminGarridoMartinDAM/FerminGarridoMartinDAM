@@ -38,12 +38,45 @@
     <ul>
       <li><a href="https://github.com/meleiro/DAM-ACCESO_A_DATOS_Tienda_Ramiro_Ficheros">Proyecto: Tienda Ramiro (Ficheros)</a></li>
       <li><a href="https://github.com/meleiro/DAM-ACCESO_A_DATOS_ALAMBRES_RAMIRO">Proyecto: Alambres Ramiro</a></li>
+      <li><a href="https://github.com/meleiro/DAM-ACCESO_A_DATOS_ALAMBRES_RAMIRO">Proyecto: Alambres Ramiro</a></li>
     </ul>
   </details>
 - 📱 **[Programación Multimedia y Dispositivos Móviles](https://github.com/meleiro/DAM-PMDM-SportTracking)** - Desarrollo de aplicaciones nativas en Android con Kotlin (*Proyecto SportTracking*).
+     <details>
+    <summary><b>📂 Desplegar proyectos de la asignatura</b></summary>
+    <ul>
+      <li><a href="https://github.com/meleiro/DAM-ACCESO_A_DATOS_Tienda_Ramiro_Ficheros">Proyecto: Tienda Ramiro (Ficheros)</a></li>
+      <li><a href="https://github.com/meleiro/DAM-ACCESO_A_DATOS_ALAMBRES_RAMIRO">Proyecto: Alambres Ramiro</a></li>
+      <li><a href="https://github.com/meleiro/DAM-ACCESO_A_DATOS_ALAMBRES_RAMIRO">Proyecto: Alambres Ramiro</a></li>
+    </ul>
+  </details>
 - ⚡ **[Programación de Servicios y Procesos](https://github.com/olga3emes/2DAM-CM-2627/tree/master/PSP)** - Programación concurrente, multihilo, sockets y servicios en red.
+     <details>
+    <summary><b>📂 Desplegar proyectos de la asignatura</b></summary>
+    <ul>
+      <li><a href="https://github.com/meleiro/DAM-ACCESO_A_DATOS_Tienda_Ramiro_Ficheros">Proyecto: Tienda Ramiro (Ficheros)</a></li>
+      <li><a href="https://github.com/meleiro/DAM-ACCESO_A_DATOS_ALAMBRES_RAMIRO">Proyecto: Alambres Ramiro</a></li>
+      <li><a href="https://github.com/meleiro/DAM-ACCESO_A_DATOS_ALAMBRES_RAMIRO">Proyecto: Alambres Ramiro</a></li>
+    </ul>
+  </details>
 - 🖥️ **[Desarrollo de Interfaces](https://github.com/olga3emes/2DAM-CM-2627/tree/master/DI)** - Diseño y construcción de interfaces gráficas de usuario (JavaFX / UI).
+    <details>
+    <summary><b>📂 Desplegar proyectos de la asignatura</b></summary>
+    <ul>
+      <li><a href="https://github.com/meleiro/DAM-ACCESO_A_DATOS_Tienda_Ramiro_Ficheros">Proyecto: Tienda Ramiro (Ficheros)</a></li>
+      <li><a href="https://github.com/meleiro/DAM-ACCESO_A_DATOS_ALAMBRES_RAMIRO">Proyecto: Alambres Ramiro</a></li>
+      <li><a href="https://github.com/meleiro/DAM-ACCESO_A_DATOS_ALAMBRES_RAMIRO">Proyecto: Alambres Ramiro</a></li>
+    </ul>
+    </details>
 - 🏢 **[Sistemas de Gestión Empresarial](https://github.com/olga3emes/2DAM-CM-2627/tree/master/SGE)** - Implantación y personalización de sistemas ERP/CRM (Odoo, Docker).
+     <details>
+    <summary><b>📂 Desplegar proyectos de la asignatura</b></summary>
+    <ul>
+      <li><a href="https://github.com/meleiro/DAM-ACCESO_A_DATOS_Tienda_Ramiro_Ficheros">Proyecto: Tienda Ramiro (Ficheros)</a></li>
+      <li><a href="https://github.com/meleiro/DAM-ACCESO_A_DATOS_ALAMBRES_RAMIRO">Proyecto: Alambres Ramiro</a></li>
+      <li><a href="https://github.com/meleiro/DAM-ACCESO_A_DATOS_ALAMBRES_RAMIRO">Proyecto: Alambres Ramiro</a></li>
+    </ul>
+  </details>
 - ☁️ **[MPO: Fundamentos de Computación en la Nube](https://github.com/olga3emes/2DAM-CM-2627/tree/master/MPO)** - Infraestructura cloud, despliegue y servicios en la nube.
 
 **Módulos Transversales y Empleabilidad** *(Repositorios propios en preparación)*
