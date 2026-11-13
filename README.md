@@ -59,7 +59,7 @@
       <li><a href="https://github.com/meleiro/DAM-ACCESO_A_DATOS_ALAMBRES_RAMIRO">Proyecto: Alambres Ramiro</a></li>
     </ul>
   </details>
-- 🖥️ **[Desarrollo de Interfaces](https://github.com/olga3emes/2DAM-CM-2627/tree/master/DI)** - Diseño y construcción de interfaces gráficas de usuario (JavaFX / UI).
+- 🖥️ **[Desarrollo de Interfaces](https://github.com/stars/FerminGarridoMartinDAM/lists/desarrollo-de-interfaces)** - Diseño y construcción de interfaces gráficas de usuario (JavaFX / UI).
     <details>
     <summary><b>📂 Desplegar proyectos de la asignatura</b></summary>
     <ul>
